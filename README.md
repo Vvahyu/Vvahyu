@@ -73,5 +73,6 @@
 
 
 ### Spotify Playing 🎧
-
-[<img src="https://spotify-recently-played-readme.vercel.app/api?user=21iclpmbpjbslenc34n5vg7yy&unique={true|1|on|yes}" alt="Spotify Now Playing" width="350" />]
+<div align="center">
+<img src="https://spotify-recently-played-readme.vercel.app/api?user=21iclpmbpjbslenc34n5vg7yy&unique={true|1|on|yes}" alt="Spotify Now Playing" width="350" />
+</div>
