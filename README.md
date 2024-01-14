@@ -74,5 +74,4 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://spotify-vvahyus-projects.vercel.app/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/Vvahyu)
-
+[<img src="https://spotify-recently-played-readme.vercel.app/api?user=21iclpmbpjbslenc34n5vg7yy&unique={true|1|on|yes}" alt="Spotify Now Playing" width="350" />]
