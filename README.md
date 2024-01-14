@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="center">Hiii!🦖</h2>
 
 ###
 
@@ -80,8 +80,8 @@
 ###
 
 <div align="center">
-  <img src="https://<YOUR VERCEL SERVER URL>/api/spotify-playing" alt="Spotify Now Playing" width="350" />](https://open.spotify.com/user/<https://spotify-recently-played-readme.vercel.app/api?user=21iclpmbpjbslenc34n5vg7yy![image](https://github.com/Vvahyu/Vvahyu/assets/129681245/90f28238-ff05-462b-94ed-fc322761d361)
->
+  <img src="
+https://spotify-recently-played-readme.vercel.app/api?user=21iclpmbpjbslenc34n5vg7yy" alt="Spotify recently played"  />
 </div>
 
 ###
